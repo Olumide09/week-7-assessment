@@ -16,3 +16,5 @@ const sentence = "The quick brown fox jumps over the lazy dog."
 console.log(isPangram(sentence))
 
 // code runtime = O(n)
+
+// space complexity = O(1)

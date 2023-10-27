@@ -13,3 +13,5 @@ function hasUniqChar(str) {
 console.log(hasUniqChar('Monday'))
 
 // code runtime = O(n^2)
+
+//space complexity = O(1)
